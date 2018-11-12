@@ -1,0 +1,46 @@
+Notes of Design:
+
+Desktop
+-no exclamation point
+-different font, downtown merchants, google drive, extra information
+-download now exclamation point
+-iphone too closse
+-snip snap align with apple 
+-business and person icon alignment
+-reserve ad space button
+	*ad space button in cart
+-regular stands already kept can be bought through product page
+-App, detail page
+	*closest location
+-directions?
+-detail view pop up window
+-logo in top left corner, static on all pages
+-cart is yet to be determined?
+-fillable form for adspace 
+-below load more results, purchase ad space
+-customized stands  
+
+Mobile
+-Centered graphics
+-no exclamation 
+-No color on color
+-Icons seem boring
+-Verbiage on wording for home page
+-no exclamation
+-experimenting with fonts
+-Order of options
+	*mirror the desktop
+-stand on background image
+-blurred pictures on all pages
+-stand picture
+-stands near you drop down?
+
+App
+-facebook, twitter, linlkden, instagram, gmail sign-in buttons for signing in
+-moving login button down, smidge
+-create an account button, have a square with background blur and 20 rounded radius
+-move secs down, below number
+
+General:
+-Testimonials visible on website, slider testimonials
+

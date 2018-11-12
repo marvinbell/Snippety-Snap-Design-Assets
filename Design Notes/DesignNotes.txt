@@ -1,0 +1,25 @@
+Notes for desktop/mobile website
+
+Disclaimer: I wanted to show off a general idea of the new design before fully commiting to it
+Here are some ideas that I had for under each page. Let me know any changes or stuff you want to make
+before we go a little further
+
+Portal Page
+- for the portal page i image that there could be animation like lights floating in the back
+with the red overlay like how I have it in the design
+
+App Page
+- this is the page the user will jump to when they click on User? in the portal
+- will have an interactive app display of the snippety snap app that will work like that app say
+say for the camera function that will ONLY be simulated, not working
+- the user will have the option to go back to the portal page
+
+Home Page
+- this will be the page the user goes to when they click on Business?
+- the page will continuously scroll down
+- the navigator bar will follow with the user screen
+- any option the user clicks, they will automatically scroll to the corresponding option
+- under the "products" seciton, paraphanellia will scroll horizontally (sorta like a photo gallery)
+to show of snippety snap items
+- clicking the "see more" button would take them to the primary shopping page
+- carts will have their own shopping and check out page

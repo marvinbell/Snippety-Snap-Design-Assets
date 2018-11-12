@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.683 89.189">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Man" transform="translate(0 0)">
+    <g id="Body" transform="translate(0 46.134)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="31.841" cy="21.528" rx="31.841" ry="21.528"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="63.683" height="21.528" transform="translate(0 21.528)"/>
+    </g>
+    <ellipse id="Head" class="cls-1" cx="23.523" cy="23.067" rx="23.523" ry="23.067" transform="translate(7.841)"/>
+  </g>
+</svg>

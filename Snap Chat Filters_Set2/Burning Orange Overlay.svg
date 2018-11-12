@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1125 2436">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Burning_Orange_Overlay);
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4b2b"/>
+      <stop offset="1" stop-color="#ff416c"/>
+    </linearGradient>
+    <clipPath id="clip-Burning_Orange_Overlay">
+      <rect width="1125" height="2436"/>
+    </clipPath>
+  </defs>
+  <g id="Burning_Orange_Overlay" data-name="Burning Orange Overlay" class="cls-1">
+    <rect class="cls-3" width="1125" height="2436"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="1125" height="2436"/>
+  </g>
+</svg>

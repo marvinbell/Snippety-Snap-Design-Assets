@@ -1,0 +1,20 @@
+<svg id="sign_in_with" data-name="sign in with" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 951 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 56px;
+        font-family: MS-PGothic, MS PGothic;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <text id="SIGN_IN_WITH-2" data-name="SIGN IN WITH" class="cls-1" transform="translate(472.5 48)"><tspan x="-164.719" y="0">SIGN IN WITH</tspan></text>
+  <line id="Line_1" data-name="Line 1" class="cls-2" x2="234" transform="translate(0 31.484)"/>
+  <path id="Path_20" data-name="Path 20" class="cls-2" d="M0,0H234" transform="translate(717 31.484)"/>
+</svg>

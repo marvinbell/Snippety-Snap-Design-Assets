@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 316 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 19px;
+        font-family: MS-PGothic, MS PGothic;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="or" transform="translate(-30.5 -219)">
+    <text id="OR-2" data-name="OR" class="cls-1" transform="translate(189 235)"><tspan x="-12.654" y="0">OR</tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-2" x2="105" transform="translate(30.5 229.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" x2="105" transform="translate(241.5 229.5)"/>
+  </g>
+</svg>

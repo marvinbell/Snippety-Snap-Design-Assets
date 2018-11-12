@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.365 26.694">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Lock" transform="translate(-58 -478)">
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-1" width="26.365" height="16.313" transform="translate(58 488.381)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2" transform="translate(64.591 478)">
+      <ellipse class="cls-3" cx="7.062" cy="9.269" rx="7.062" ry="9.269"/>
+      <ellipse class="cls-4" cx="7.062" cy="9.269" rx="6.562" ry="8.769"/>
+    </g>
+  </g>
+</svg>

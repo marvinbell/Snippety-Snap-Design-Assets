@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 104.276 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4267b2;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        filter: url(#Rectangle_20);
+      }
+    </style>
+    <filter id="Rectangle_20" x="0" y="0" width="104.276" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="facebook" transform="translate(-21 -264)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 21, 264)">
+      <g id="Rectangle_20-2" data-name="Rectangle 20" class="cls-1" transform="translate(9 6)">
+        <rect class="cls-2" width="86.276" height="33" rx="8"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="85.276" height="32" rx="7.5"/>
+      </g>
+    </g>
+    <image id="brandico_2014-04-07_facebook_256_0_ffffff_none" width="21" height="21" transform="translate(61.479 276)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAABm1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8scpb8AAAAiHRSTlMAAQIDBAUGBwgJCgsMDQ4PEBITFBUWFxgZGhwdHiAhIiMlJicoKSorLC0uLzAxMjM0NTY4OTo8PT4/QEJFR0lKTE1OT1JVV1hZW1xhYmNnaGttcHN0eHx/gIOFhomOkZKVmJ6ipqiqq62wsrW3ubq8w8jKzs/R09XZ2t7g4uTm6e3v8fP3+fv9C0hgBAAAA4hJREFUeNrt3VdXE1EUhuEhggiiIGChWBCIFMUCCAoWFBSlqGBDUayIDVREwAIqJftne+G1rHWSM5J99vv9grzPyppJJpMkirJqRUf6700uyr+3Mvdm4nZ/Z215fk4U2AqPDb9eE4etLkznhhKfUzEwJ2ksEIDa8RVJb4kA6vP7vkva038cqJqQTKYdoGxSMpvyw/54hvmSUn3gv5HKtF9+K+4vnZXMt6S3/3LKQ78sqD31vRIvm1XaX/zNT7980Nm/95enfnmn84Xvmq9+mdLYf0r87bnC/hqP/fJUX3/5qk+AR+r6ty/77JcH2vpz5732y11tAM/89suosv4LnvvlprL3PynfAIOq+hNffPfLNVUAI977pVdTf4n/frmoCWAqBoBuRf1NMfRLp6IrgF/jAGjVA9ARR7+06AGYjwWgUU1/fSz9UqsG4H08AIe09O+Jp1+qtQDcigmgQgvAckwAu5X0V8bUL7uUAIzGBVCsBOBnXABFdt8H/l2BDoDTsQHk6wAYS69u9e2dq2eON9bV1dXXJ5PJhqbmoy0nTra2d5zt6j5/qffK9cFhJTeJpXMX2ExXSRTKtqXxmV9pFND2u+avtUVBzfUYmDoYVn806AjQE1h/9Nit/2No/dEnN4BkcADrTv0/guvPcXsCDAUHkHADqAwOIM/eVyAyeSEY3jkg2uEE8DA8ALerAf3WATqsAzRYBzhgHaDKOsA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgG7e48X44ASwtOi0rfllaNnEJ6wCRcYB16wBL1gE+WweYtg7wwjrAhHWA+9YBRqwDDFgH6LUO0G0doM06QLN1gBrrAJXWAcqsA+y0DlBgHSDPOkDCOkCOcYAs+a+1zQNYtg4wZx1gxjrAS+sAT6wDjFkHGLUOMGQdoM86wDnrAO3WAZqtAxy2DlBlHaDcOkCxdYBC6wBbswOgeuN1OTX1VDssUjHuFgcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIu2Jemy3P/++P4AaSq7N+taQd0AAAAASUVORK5CYII="/>
+  </g>
+</svg>
